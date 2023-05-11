@@ -21,4 +21,4 @@ Lab 9
 
 	Lab 9, part 1, was the most interesting because we learned how to read a word from a file. We used code to filter and sift through a list of words that we wanted to find. I liked doing this lab because I could connect it with the technology I use daily.
 
-I love computer science
+"I love computer science."
