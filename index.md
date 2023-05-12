@@ -10,7 +10,7 @@ My GitHub page is http://github.com/ehart7422.
 
 Lab 4
 
-Lab 4, part 1, was my favorite out of the two parts. I was interested in how we calculate dates. I learned how the Gregorian worked and the formula used for the difference between two dates. I also learned that a Julian day is the number of days since 0.
+	Lab 4, part 1, was my favorite out of the two parts. I was interested in how we calculate dates. I learned how the Gregorian worked and the formula used for the difference between two dates. I also learned that a Julian day is the number of days since 0.
 
 
 Lab 5
